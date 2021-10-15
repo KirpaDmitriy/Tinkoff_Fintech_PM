@@ -1,2 +1,2 @@
-# Tinkoff_Fintech_PM
-Hometasks
+# Tinkoff Fintech Product Management
+Домашки
